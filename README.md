@@ -73,7 +73,7 @@ This project also improved my confidence in working with datasets and building d
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard Preview](dashboard.png)
 
 ---
 
